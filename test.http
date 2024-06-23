@@ -1,0 +1,9 @@
+POST        http://localhost:3000/addTask
+Content-Type: application/json
+
+{
+    "title": "Kennedy goals",
+    "body": "Fuck everyday",
+    "status": false
+
+}
